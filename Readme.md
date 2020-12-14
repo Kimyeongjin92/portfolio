@@ -6,7 +6,7 @@
 - Smart data expert training course, 2019 (R, Python, Hadoop-Hive, MySQL)
 
 ## Work Experience
-2020년 현재 <a gref통계청 빅데이터 통계과 기간제 근로하고 있습니다.
+2020년 현재 <a href="http://kostat.go.kr/portal/korea/kor_ko/5/2/9/4/index.action?pageNo=2&bmode=dept&ogId=1240478&emName=&chargeWork=">통계청 빅데이터 통계과</a> 기간제 근로하고 있습니다.
 
 ## skills
 R, Python

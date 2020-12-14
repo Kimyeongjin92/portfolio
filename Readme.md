@@ -13,7 +13,7 @@ R, Python
 
 ## Awards and Honors
 <table border="1">
-  <th>Time</th>
+  <th>Year</th>
   <th>Title</th>
   <th>Awards</th>
   <tr><!-- 첫번째 줄 시작 -->

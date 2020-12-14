@@ -26,7 +26,7 @@ R, Python
 ## Personal Experiences
 
 ### R
-- <ins>2019-01</ins>
+- <mark>2019-01</mark>
 -
 
 ### Python

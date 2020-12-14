@@ -59,7 +59,7 @@ R, Python
 <ul>
   <li>데이터 주무르기</li>
     <ul>
-      <li>서울시 구별 CCTV 현황 분석</li>
+      <ol>1. 서울시 구별 CCTV 현황 분석</ol>
     </ul>
 </ul>
   

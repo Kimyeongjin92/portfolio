@@ -59,7 +59,14 @@ R, Python
 <ul>
   <li>데이터 주무르기</li>
     <ul>
-      <li>1. 서울시 구별 CCTV 현황 분석</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :1. 서울시 구별 CCTV 현황 분석</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :2. 서울시 범죄 현황 분석</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :3. 시카고 샌드위치 맛집 분석</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :4. 셀프 주유소는 정말 저렴할까</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :5. 우리나라 인구 소멸 위기 지역 분석</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :6. 19대 대선 결과 분석</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :7. 시계열 데이터를 다뤄보자</li>
+      <li><code>2020-12</code> <a href="">Product Classification</a> :8. 자연어 처리 시작하기</li>
     </ul>
 </ul>
   

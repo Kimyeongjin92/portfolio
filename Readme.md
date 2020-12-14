@@ -24,9 +24,13 @@ R, Python
 - tistory : <a href="https://boksl-boksl.tistory.com/">Kimyeongjin92</a>
 
 ## Personal Experiences
-
+mark {
+  display: inline-block;
+  line-height: 0em;
+  padding-bottom: 0.5em;
+}
 ### R
-- <span style="background-color:#00FF00">2019-01</span>
+- <mark>2019-01</mark>
 -
 
 ### Python

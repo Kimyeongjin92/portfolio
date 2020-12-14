@@ -1,7 +1,8 @@
 # 김영진(YJ29)
 
 ## Educations</n>
-- University of Hannam in Daejeon Economics, Business Statistics</br>
+- University of Hannam in Daejeon (*Expected graduation date 2021. 08)
+- College of Economics/ Business Statistics</br>
 - Smart data expert training course, 2019 (R, Python, Hadoop-Hive, MySQL)
 
 ## Work Experience

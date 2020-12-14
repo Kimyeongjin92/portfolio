@@ -69,6 +69,13 @@ R, Python
       <li><code>2019-08</code> <a href=""></a> : 8. 자연어 처리 시작하기</li>
     </ul>
 </ul>
-  
---- 
 
+---
+ 
+<ul>
+  <li>모두의 딥러닝<li>
+    <ul>
+      <li><code>2020-12</code> <a href="">aa</a> : 1. 딥러닝 </li>
+      <li><code>2020-12</code> <a href="">aa</a> : 2. 딥러닝 </li>
+    </ul>
+</ul>

@@ -1,12 +1,12 @@
 # 김영진(YJ29)
 
 ## Educations</n>
-- University of Hannam in Daejeon (*Expected graduation date 2021. 08)
+- University of Hannam in Daejeon [Cumulative GPA: 3.82/4.5] (*Expected graduation date 2021. 08)
 - College of Economics/ Business Statistics</br>
 - Smart data expert training course, 2019 (R, Python, Hadoop-Hive, MySQL)
 
 ## Work Experience
-2020년 현재 통계청 빅데이터 통계과 기간제 근로하고 있습니다.
+2020년 현재 <a gref통계청 빅데이터 통계과 기간제 근로하고 있습니다.
 
 ## skills
 R, Python

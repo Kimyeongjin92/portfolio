@@ -12,7 +12,7 @@ Smart data expert training course, 2019
 R, Python
 
 ## Awards and Honors
-2017 학습아이디어 공모전 우수상
+2017 학습아이디어 공모전 우수상</n>
 2018 빅데이터 경진대회 대상
 2019 충청남도 빅데이터 아이디어 공모전 우수상
 

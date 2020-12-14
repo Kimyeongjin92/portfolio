@@ -72,7 +72,14 @@ R, Python, SQL
 </br>
   <li>모두의 딥러닝</li>
     <ul>
-      <li><code>2020-12</code> <a href="">aa</a> : 1. 딥러닝 </li>
-      <li><code>2020-12</code> <a href="">aa</a> : 2. 딥러닝 </li>
+      <li><code>2019-08</code> <a href="">1. ThoraricSurgery</a> : 폐암 수술 환자의 생존율 예측</li>
+      <li><code>2019-08</code> <a href="">2. Pima_indians_diabetes</a> : 피마 인디언 당뇨병 예측 </li>
+      <li><code>2019-08</code> <a href="">3. iris</a> : 아이리스 품종 예측 </li>
+      <li><code>2019-08</code> <a href="">4. sonar</a> : 초음파 광물 예측 </li>
+      <li><code>2019-08</code> <a href="">5. wine</a> : 와인의 종류 예측 </li>
+      <li><code>2019-08</code> <a href="">6. housing</a> : 보스턴 집값 예측 </li>
+      <li><code>2019-08</code> <a href="">7. CNN</a> : MNIST 손글씨 인식 </li>
+      <li><code>2019-08</code> <a href="">8. RNN</a> : 뉴스 카테고리 분류 </li>
+      <li><code>2019-08</code> <a href="">9. LSTM&CNN</a> : 영화 리뷰 분류 </li>
     </ul>
 </ul>

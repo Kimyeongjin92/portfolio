@@ -1,8 +1,8 @@
 # 김영진(YJ29)
 
 ## Educations</n>
-University of Hannam in Daejeon
-Smart data expert training course, 2019
+University of Hannam in Daejeon</br>
+Smart data expert training course, 2019</br>
 (R, Python, Hadoop-Hive, MySQL)
 
 ## Work Experience
@@ -13,7 +13,7 @@ R, Python
 
 ## Awards and Honors
 2017 학습아이디어 공모전 우수상</br>
-2018 빅데이터 경진대회 대상
+2018 빅데이터 경진대회 대상</br>
 2019 충청남도 빅데이터 아이디어 공모전 우수상
 
 ## Contacts

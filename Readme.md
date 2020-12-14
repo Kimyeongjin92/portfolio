@@ -56,6 +56,6 @@ R, Python
 - <code>2020-12</code> <a href="">Product Classification</a> : LSTM 적용 품목분류기 (품목라벨링, Y/N)
 
 ## CODING BOOK Practice
-<ul>데이터 주무르기</ul>
-<li>서울시 구별 CCTV 현황 분석</li>
+- 데이터 주무르기
+<h4>서울시 구별 CCTV 현황 분석</h4>
 

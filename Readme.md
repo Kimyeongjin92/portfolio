@@ -47,7 +47,7 @@ R, Python
 - <code>2020-10</code> <a href="">Change of Address</a> : 웹 파싱 주소변경 후 주소코드 가져오기 
 
 ### Python
-- <code>2020-06</code> <a href="">11st/LOTTE ON Category craler</a> : 11st, LotteOn 카테고리 수집
+- <code>2020-06</code> <a href="">11st/LOTTE ON Category crawler</a> : 11st, LotteOn 카테고리 수집
 - <code>2020-07</code> <a href="">Wizely review data analysis</a> : 면도기업체 와이즐리 리뷰데이터 분석
 - <code>2020-09</code> <a href="">Daum-News web crawler</a> : 다음 뉴스 기사데이터 수집
 - <code>2020-10</code> <a href="">Naver-store web crawler</a> : 네이버쇼핑 옵션상품(2depth) 수집

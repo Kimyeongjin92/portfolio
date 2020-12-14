@@ -72,10 +72,8 @@ R, Python
 
 
  
-<ul>
   <li>모두의 딥러닝<li>
     <ul>
       <li><code>2020-12</code> <a href="">aa</a> : 1. 딥러닝 </li>
       <li><code>2020-12</code> <a href="">aa</a> : 2. 딥러닝 </li>
     </ul>
-</ul>

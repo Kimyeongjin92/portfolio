@@ -82,7 +82,6 @@ R, Python, SQL
       <li><code>2019-08</code> <a href="">8. RNN</a> : 뉴스 카테고리 분류 </li>
       <li><code>2019-08</code> <a href="">9. LSTM&CNN</a> : 영화 리뷰 분류 </li>
     </ul>
-</ul>
 
 </br>
   <li>모두의 데이터분석</li>

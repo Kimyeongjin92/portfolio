@@ -1,6 +1,6 @@
 # 김영진(YJ29)
 
-#Educations
+#Educations</br></n>
 University of Hannam in Daejeon
 Smart data expert training course, 2019
 (R, Python, Hadoop-Hive, MySQL)

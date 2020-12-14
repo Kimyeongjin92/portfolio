@@ -53,4 +53,4 @@ R, Python
 - <code>2020-10</code> <a href="">Naver-smartstore web crawler</a> : 네이버쇼핑 옵션상품(2depth) 수집
 - <code>2020-11</code> <a href="">KAKAO & GOOGLE 번역기</a> : 카카오 구글 번역기
 - <code>2020-11</code> <a href="">Pypapago2</a> : Authorization Key 자동적용 번역기
-- <code>2020-11</code> <a href="">Product Classification</a> : LSTM 적용 품목분류기 (품목라벨링, Y/N)
+- <code>2020-12</code> <a href="">Product Classification</a> : LSTM 적용 품목분류기 (품목라벨링, Y/N)

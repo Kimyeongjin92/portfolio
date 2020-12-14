@@ -22,3 +22,13 @@ R, Python
 - Github : <a href="https://github.com/Kimyeongjin92">Kimyeongjin92</a>
 - StackOverFlow :
 - tistory : <a href="https://boksl-boksl.tistory.com/">Kimyeongjin92</a>
+
+## Personal Experiences
+
+### R
+- 2019-01
+-
+
+### Python
+- 2020-08
+-

@@ -19,6 +19,6 @@ R, Python
 ## Contacts
 - Email: dudwlsrla21@gmail.com
 - LinkedIn: 
-- Github : Kimyeongjin92
+- Github : <a href="https://github.com/Kimyeongjin92">Kimyeongjin92</a>
 - StackOverFlow :
 - tistory : <a href="https://boksl-boksl.tistory.com/">Kimyeongjin92</a>

@@ -33,10 +33,6 @@ R, Python
   </tr><!-- 세번째 줄 끝 --> 
 </table>
 
-2017 학습아이디어 공모전 우수상</br>
-2018 빅데이터 경진대회 대상</br>
-2019 충청남도 빅데이터 아이디어 공모전 우수상
-
 ## Contacts
 - Email: dudwlsrla21@gmail.com
 - LinkedIn: 

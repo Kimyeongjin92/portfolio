@@ -83,3 +83,12 @@ R, Python, SQL
       <li><code>2019-08</code> <a href="">9. LSTM&CNN</a> : 영화 리뷰 분류 </li>
     </ul>
 </ul>
+
+</br>
+  <li>모두의 데이터분석</li>
+    <ul>
+      <li><code>2019-07</code> <a href="">1. Temperature</a> : 기온 공공데이터</li>
+      <li><code>2019-07</code> <a href="">2. Population</a> : 인구 공공데이터 </li>
+      <li><code>2019-07</code> <a href="">3. Public transport</a> : 대중교통 데이터 </li>
+    </ul>
+</ul>

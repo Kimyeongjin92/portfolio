@@ -60,13 +60,13 @@ R, Python
   <li>데이터 주무르기</li>
     <ul>
       <li><code>2019-08</code> <a href="https://github.com/Kimyeongjin92/Python_Jupyter_Notebook/blob/master/python_jupyter/6.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A3%BC%EB%AC%B4%EB%A5%B4%EA%B8%B0/Unit_00%20DataScience-master%20%EC%9E%90%EB%A3%8C/DataScience-master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb">CCTV in Seoul</a> : 1. 서울시 구별 CCTV 현황 분석</li>
-      <li>2. 서울시 범죄 현황 분석</li>
-      <li>3. 시카고 샌드위치 맛집 분석</li>
-      <li>4. 셀프 주유소는 정말 저렴할까</li>
-      <li>5. 우리나라 인구 소멸 위기 지역 분석</li>
-      <li>6. 19대 대선 결과 분석</li>
-      <li>7. 시계열 데이터를 다뤄보자</li>
-      <li>8. 자연어 처리 시작하기</li>
+      <li><code>2019-08</code> <a href="https://github.com/Kimyeongjin92/Python_Jupyter_Notebook/blob/master/python_jupyter/6.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A3%BC%EB%AC%B4%EB%A5%B4%EA%B8%B0/Unit_00%20DataScience-master%20%EC%9E%90%EB%A3%8C/DataScience-master/source_code/02.%20Analysis%20for%20crime%20in%20Seoul.ipynb">crime in Seoul</a> : 2. 서울시 범죄 현황 분석</li>
+      <li><code>2019-08</code> <a href="">Web Parsing example</a> : 3. 시카고 샌드위치 맛집 분석</li>
+      <li><code>2019-08</code> <a href="https://github.com/Kimyeongjin92/Python_Jupyter_Notebook/blob/master/python_jupyter/6.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A3%BC%EB%AC%B4%EB%A5%B4%EA%B8%B0/Unit_00%20DataScience-master%20%EC%9E%90%EB%A3%8C/DataScience-master/source_code/03-1.%20Web%20Parsing%20example.ipynb"></a> : 4. 셀프 주유소는 정말 저렴할까</li>
+      <li><code>2019-08</code> <a href=""></a> : 5. 우리나라 인구 소멸 위기 지역 분석</li>
+      <li><code>2019-08</code> <a href=""></a> : 6. 19대 대선 결과 분석</li>
+      <li><code>2019-08</code> <a href=""></a> : 7. 시계열 데이터를 다뤄보자</li>
+      <li><code>2019-08</code> <a href=""></a> : 8. 자연어 처리 시작하기</li>
     </ul>
 </ul>
   

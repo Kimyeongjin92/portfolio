@@ -26,7 +26,7 @@ R, Python
 ## Personal Experiences
 
 ### R
-- <mark>2019-01</mark>
+- <span style="background-color:gray">2019-01</span>
 -
 
 ### Python

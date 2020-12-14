@@ -26,7 +26,7 @@ R, Python
 ## Personal Experiences
 
 ### R
-- <U>2019-01<~U>
+- <U>2019-01</U>
 -
 
 ### Python

@@ -12,6 +12,27 @@ Smart data expert training course, 2019</br>
 R, Python
 
 ## Awards and Honors
+<table border="1">
+  <th>Time</th>
+  <th>Title</th>
+  <th>Awards</th>
+  <tr><!-- 첫번째 줄 시작 -->
+    <td>2017</td>
+    <td>학습아이디어 공모전</td>
+    <td>우수상</td>
+  </tr><!-- 첫번째 줄 끝 -->
+  <tr><!-- 두번째 줄 시작 -->
+    <td>2018</td>
+    <td>빅데이터 경진대회</td>
+    <td>대상</td>
+  </tr><!-- 두번째 줄 끝 -->
+  <tr><!-- 세번째 줄 시작 -->
+    <td>2019</td>
+    <td>충청남도 빅데이터 아이디어 공모전</td>
+    <td>우수상</td>
+  </tr><!-- 세번째 줄 끝 --> 
+</table>
+
 2017 학습아이디어 공모전 우수상</br>
 2018 빅데이터 경진대회 대상</br>
 2019 충청남도 빅데이터 아이디어 공모전 우수상

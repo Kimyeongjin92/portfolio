@@ -1,9 +1,8 @@
 # 김영진(YJ29)
 
 ## Educations</n>
-University of Hannam in Daejeon</br>
-Smart data expert training course, 2019</br>
-(R, Python, Hadoop-Hive, MySQL)
+- University of Hannam in Daejeon</br>
+- Smart data expert training course, 2019 (R, Python, Hadoop-Hive, MySQL)
 
 ## Work Experience
 2020년 현재 통계청 빅데이터 통계과 기간제 근로하고 있습니다.

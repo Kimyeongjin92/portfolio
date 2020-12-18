@@ -68,7 +68,7 @@ R, Python, SQL
       <li><code>2019-08</code> <a href="https://github.com/Kimyeongjin92/Python_Jupyter_Notebook/blob/master/python_jupyter/6.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A3%BC%EB%AC%B4%EB%A5%B4%EA%B8%B0/Unit_00%20DataScience-master%20%EC%9E%90%EB%A3%8C/DataScience-master/source_code/07.%20Time%20Series%20Data%20Handle.ipynb">7. Time Series Data Handle</a> : 시계열 데이터를 다뤄보자</li>
       <li><code>2019-08</code> <a href="https://github.com/Kimyeongjin92/Python_Jupyter_Notebook/blob/master/python_jupyter/6.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A3%BC%EB%AC%B4%EB%A5%B4%EA%B8%B0/Unit_00%20DataScience-master%20%EC%9E%90%EB%A3%8C/DataScience-master/source_code/08.%20Natural%20Language%20Processing.ipynb">8. Natural Language Processing</a> : 자연어 처리 시작하기</li>
     </ul>
-  d
+  
 </br>
   <li>모두의 딥러닝</li>
     <ul>

@@ -1,7 +1,5 @@
 # 김영진(YJ29)
-<h1>아아
-  <h2> 아아2
-    <h3> 아아3
+
 ## Educations</n>
 - University of Hannam in Daejeon [Cumulative GPA: 3.82/4.5] <i>(*Expected graduation date 2021. 08)</i>
 - College of Economics/ Business Statistics</br>
